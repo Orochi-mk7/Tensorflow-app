@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tensorflow-app/static/css/main.48bd7258.css",
+    "main.js": "/Tensorflow-app/static/js/main.5d7cd624.js",
+    "static/js/453.be626efc.chunk.js": "/Tensorflow-app/static/js/453.be626efc.chunk.js",
+    "static/media/logo.svg": "/Tensorflow-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Tensorflow-app/index.html",
+    "main.48bd7258.css.map": "/Tensorflow-app/static/css/main.48bd7258.css.map",
+    "main.5d7cd624.js.map": "/Tensorflow-app/static/js/main.5d7cd624.js.map",
+    "453.be626efc.chunk.js.map": "/Tensorflow-app/static/js/453.be626efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48bd7258.css",
+    "static/js/main.5d7cd624.js"
+  ]
+}
